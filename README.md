@@ -6,7 +6,7 @@ How to run?
 git clone https://github.com/patelshehbaz/Name-Entity-Recognition.git
 ```
 
-## AWS GCP Configuration
+## GCP Configuration
 
 ```
 #Gcloud cli download link: https://cloud.google.com/sdk/docs/install#windows
