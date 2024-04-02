@@ -31,3 +31,12 @@ pip install -r requirements.txt
 ```
 python app.py
 ```
+
+## Workflows
+
+- constants
+- config_entity
+- artifact_entity
+- components
+- pipeline
+- app.py
