@@ -161,3 +161,6 @@ cython_debug/
 my_model.pth
 artifacts/*
 logs/*
+best_model/*
+ids_to_labels.pkl
+tokenizer.pkl
